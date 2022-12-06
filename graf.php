@@ -6,8 +6,9 @@ while($x <= 5) {
   echo "Masukan tidak boleh negatif";
   }else {
   $x = $x+1;
-  echo "The number is: $x <br>";
+  
   }
+ echo "The number is: $x <br>";
   
 } 
 ?> 
